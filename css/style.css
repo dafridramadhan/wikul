@@ -1,0 +1,10 @@
+html{
+    scroll-behavior: smooth;
+}
+.Home{
+    background-color: #eee;
+    margin-top: 50px;
+}
+.Kuliner{
+    background-color: #eee;
+}

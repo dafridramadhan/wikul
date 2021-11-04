@@ -1,10 +1,21 @@
 html{
     scroll-behavior: smooth;
 }
-.Home{
-    background-color: #eee;
-    margin-top: 50px;
+body{
+    background-color: lightblue;
 }
-.Kuliner{
-    background-color: #eee;
+p{
+    font-family: 'Zen Antique soft', serif;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+h4{
+    font-family: 'Zen Antique Soft', serif;
+}
+a{
+    font-family: 'Oswald', sans-serif;
+}
+.Home{
+    margin-top: 50px;
 }
